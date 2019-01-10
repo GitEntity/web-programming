@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+
+	<channel>
+		<title>Exams</title>
+		<link>http://localhost/TermProject/category.php?id=1</link>
+		<description>Topics in Exam Category</description>
+		<language>en-us</language>
+		<pubDate>Tue, 10 November 05:00:05 GMT</pubDate>
+		<generator>Weblog Editor 2.0</generator>
+		<managingEditor>editor@example.com</managingEditor>
+		
+			<item>
+			<title>Topic 1 - Assignment</title>
+			<link>http://localhost/TermProject/topic.php?id=6</link>
+			<description>Answers to Assignment 1</description>
+			<pubDate>Tue, 10 November 05:00:05 GMT</pubDate>
+			</item>
+			
+			<item>
+			<title>Topic 2 - Assignment</title>
+			<link>http://localhost/TermProject/topic.php?id=7</link>
+			<description>Answers to Assignment 1</description>
+			<pubDate>Tue, 10 November 05:00:05 GMT</pubDate>
+			</item>
+			
+			<item>
+			<title>Topic 3 - Assignment</title>
+			<link>http://localhost/TermProject/topic.php?id=8</link>
+			<description>Answers to Assignment 1</description>
+			<pubDate>Tue, 10 November 05:00:05 GMT</pubDate>
+			</item>
+		</channel>
+</rss>		
+		
