@@ -2,6 +2,8 @@
 
 **View branches for course work**
 
+### Lab 3: Introduction to Arrays
+
 ###### Course Description
 This course introduces the fundamental concepts and technologies for developing web
 applications. Topics include: markup languages, graphics, event-driven programming,
