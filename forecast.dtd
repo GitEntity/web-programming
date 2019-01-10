@@ -1,0 +1,6 @@
+<!DOCTYPE weather [
+	<!ELEMENT weather (today, tomorrow, weeks)>
+	<!ELEMENT today (#PCDATA)>
+	<!ELEMENT tomorrow (#PCDATA)>
+	<!ELEMENT weeks (#PCDATA)>
+]>

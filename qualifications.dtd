@@ -1,0 +1,9 @@
+<!ELEMENT qualifications (qualification+, higher-qualification?, institution+)>
+<!ELEMENT qualification (year, (certificate | diploma | degree))>
+<!ELEMENT higher-qualification EMPTY>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT certificate (#PCDATA)>
+<!ELEMENT diploma (#PCDATA)>
+<!ELEMENT degree (#PCDATA)>
+<!ELEMENT institution (name)>
+<!ELEMENT name (#PCDATA)>

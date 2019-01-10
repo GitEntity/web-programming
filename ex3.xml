@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<!DOCTYPE qualifications SYSTEM "qualifications.dtd">
+<qualifications>
+	<qualification>
+		<year>2001</year>
+		<diploma>Electronic Engineering</diploma>
+	</qualification>
+	<qualification>
+		<year>2005</year>
+		<degree>Computer Science</degree>
+	</qualification>
+	<higher-qualification/>
+	<institution>
+		<name>Oxford University</name>
+	</institution>
+	<institution>
+		<name>MIT</name>
+	</institution>
+</qualifications>

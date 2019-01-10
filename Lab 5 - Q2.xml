@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE weather-forecast SYSTEM "forecast.dtd">
+<weather>
+	<today>
+	rain
+	</today>
+	<tomorrow>
+	showers
+	</tomorrow>
+	<weeks>
+	sunny
+	</weeks>
+</weather>
