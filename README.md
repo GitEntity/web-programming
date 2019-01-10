@@ -5,6 +5,8 @@
 ### Final Web Forum Project
 View branches for various portions of the project.
 
+#### All elements of the web forum
+
 ###### Course Description
 This course introduces the fundamental concepts and technologies for developing web
 applications. Topics include: markup languages, graphics, event-driven programming,
